@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link rel="stylesheet" href="assets/style.css">
+
 <div class="container">
   {% include sidebar.html %}
   <main class="content">
