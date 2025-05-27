@@ -8,7 +8,7 @@ body, html {
 /* Flex container to hold sidebar + content */
 .container {
   display: flex;
-  height: 100vh; /* Full viewport height */
+  height: 50vh; /* Full viewport height */
 }
 
 /* Sidebar (left navigation) */
@@ -16,7 +16,7 @@ body, html {
   width: 200px; /* Fixed width */
   background: #2c3e50; /* Dark background */
   padding: 20px 0;
-  height: 100vh; /* Full height */
+  height: 50vh; /* Full height */
   position: sticky;
   top: 0;
 }
@@ -47,6 +47,6 @@ body, html {
 /* Ensure iframe fills the content area */
 #pdf-viewer {
   width: 100%;
-  height: 100%;
+  height: 80%;
   border: none;
 }
