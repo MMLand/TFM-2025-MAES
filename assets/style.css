@@ -33,7 +33,7 @@ html, body {
 }
 
 .sidebar li a:hover {
-  background: #34495e;
+  background: red; /*#34495e*/
 }
 
 .content {
