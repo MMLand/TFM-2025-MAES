@@ -41,7 +41,7 @@ body, html {
 /* PDF viewer (right side) */
 .content {
   flex: 1; /* Takes remaining space */
-  height: 100vh;
+  height: 50vh;
 }
 
 /* Ensure iframe fills the content area */
