@@ -1,9 +1,10 @@
 /* Reset default margins/padding */
+/*
 body, html {
   margin: 0;
   padding: 0;
   height: 100%;
-}
+} */
 
 /* Flex container to hold sidebar + content */
 .container {
