@@ -1,4 +1,4 @@
 function showPdf(modelName) {
   const pdfViewer = document.getElementById('pdf-viewer');
-  pdfViewer.src = `pdfs/${modelName}.pdf`;
+  pdfViewer.src = `resources/${modelName}.pdf`;
 }
