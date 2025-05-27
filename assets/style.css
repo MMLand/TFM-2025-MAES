@@ -9,7 +9,8 @@ body, html {
 /* Flex container to hold sidebar + content */
 .container {
   display: flex;
-  height: 65vh; /* Full viewport height */
+  /* height: 65vh; /* Full viewport height */
+  height: 200px;
 }
 
 /* Sidebar (left navigation) */
