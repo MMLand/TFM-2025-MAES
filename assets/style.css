@@ -10,7 +10,7 @@ body, html {
 .container {
   display: flex;
   /* height: 65vh; /* Full viewport height */
-  height: 200px;
+  height: 80%;
   z-index: -10;
 }
 
